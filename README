@@ -1,0 +1,1 @@
+* perlin-fractal-noise-2d - simple nonperiodic perlin noise that is rescaled and added to itself to make fractal noise. No transformations yet to break regularities 
